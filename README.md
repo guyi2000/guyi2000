@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on the intersection of civil engineering (especially intelligent design) and artificial intelligence.
+
 <!--
 **guyi2000/guyi2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
